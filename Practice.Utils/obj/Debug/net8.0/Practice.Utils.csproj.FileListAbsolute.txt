@@ -1,0 +1,11 @@
+C:\Users\mehem\source\repos\Practice\Practice.Utils\bin\Debug\net8.0\Practice.Utils.deps.json
+C:\Users\mehem\source\repos\Practice\Practice.Utils\bin\Debug\net8.0\Practice.Utils.dll
+C:\Users\mehem\source\repos\Practice\Practice.Utils\bin\Debug\net8.0\Practice.Utils.pdb
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\Practice.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\Practice.Utils.AssemblyInfoInputs.cache
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\Practice.Utils.AssemblyInfo.cs
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\Practice.Utils.csproj.CoreCompileInputs.cache
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\Practice.Utils.dll
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\refint\Practice.Utils.dll
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\Practice.Utils.pdb
+C:\Users\mehem\source\repos\Practice\Practice.Utils\obj\Debug\net8.0\ref\Practice.Utils.dll
